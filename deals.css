@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 10;
+  height: 100%;
+  font-family: helvetica;
+  background-color: pink;
+}
+
+a {
+  color: gray;
+}
+
+header {
+  padding: 18px;
+  background: purple;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+  text-align: center;
+}
+
+nav {
+  background-color: whitesmoke;
+}
+
+nav ul {
+  margin: 10;
+  padding: 10;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  font-size: 24px;
+}
+
+section {
+  width: 95%;
+  margin: 0 auto;
+  padding: 5px;
+  min-height: 800px;
+}
+
+section img {
+  margin-top: 0 auto;
+  padding: 60px;
+}
+
+footer {
+  clear: left;
+  padding: 10px;
+  background: blue;
+  text-align: center;
+}
